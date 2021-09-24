@@ -1,3 +1,6 @@
+#ignore large csv files
+.csv
+
 #DS Store
 .DS_Store
 
