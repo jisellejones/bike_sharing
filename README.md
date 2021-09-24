@@ -5,7 +5,7 @@ The purpose of this project was to create a variety of visualizations that would
 
 ## Data Source
 - [Citi Bike System Data](https://ride.citibikenyc.com/system-data)
-  - (201908-citibike-tripdata)[https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip]
+  - [201908-citibike-tripdata](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
 
 ## Results
 
