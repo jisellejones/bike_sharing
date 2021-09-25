@@ -28,9 +28,9 @@ While there are some tourist attractions in Manhattan, there are far fewer touri
 
 Looking at the following heat maps (Images 3 & 4), Local bike riders may also be people commuting to and from work as can be seen by the high volumes of ride times during the morning and afternoon commuting hours. These data hold true across the two binary genders as well. We do not have enough data to determine ride sharing counts for non-binary or trans bike riders. 
 
-<p align="center"> *Image 3*            |  *Image 4*
+*Image 3*            |  *Image 4*
 :-------------------------:|:-------------------------:
- <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/customer_pie_chart.png" width="300" height="198" alt="map of Manhattan" /> | <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/customer_pie_chart.png" width="300" height="198" alt="map of Manhattan" /></p>
+ <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/customer_pie_chart.png" width="300" height="198" alt="map of Manhattan" /> | <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/customer_pie_chart.png" width="300" height="198" alt="map of Manhattan" />
 
 <p align="center">*Image 3*</p>
 
