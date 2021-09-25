@@ -42,7 +42,7 @@ Finally, we can see that most people ride between 5 and 30 minutes, regardless o
 
 <p align="center">Images 6 & 7</p>
 
-<p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/check_out_times_comparison.png" width="300" height="198" alt="Two line graphs, left graph showing checkout times for all riders, right graph showing checkout times based on self-identified gender" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/check_out_times_comparison.png" width="1000" height="684" alt="Two line graphs, left graph showing checkout times for all riders, right graph showing checkout times based on self-identified gender" /></p>
 
 ## Summary
 
