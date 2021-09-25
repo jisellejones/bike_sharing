@@ -26,21 +26,25 @@ While there are some tourist attractions in Manhattan, there are far fewer touri
 
 <p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/customer_pie_chart.png" width="300" height="198" alt="map of Manhattan" /></p>
 
-Looking at the following heat maps (Images 3 & 4), Local bike riders may also be people commuting to and from work as can be seen by the high volumes of ride times during the morning and afternoon commuting hours. These data hold true across the two binary genders as well. We do not have enough data to determine ride sharing counts for non-binary or trans bike riders. 
+Looking at the following heat maps (Images 3 & 4), Local bike riders may also be people commuting to and from work as can be seen by the high volumes of ride times during the morning and afternoon commuting hours. These data hold true across the binary genders as well. We do not have enough data to determine ride sharing counts for people who identify as non-binary or trans bike riders. 
 
 *Image 3*            |  *Image 4*
 :-------------------------:|:-------------------------:
  <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_per_weekday_hour.png" width="500" height="352" alt="Heat map of weekday trips by hour"/> | <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_by_gender_Weekday_per%20_Hour.png" width="500" height="352" alt="Heat map of weekday trips by hour by gender" />
 
+
+
+
+
+Diving further into the data, we can see that most bike riders identify as male and these slef-identified male bike riders bike mostly during the weekday. This seems to also be true for self-idetified female bike riders (Image 5)
+
 <p align="center">*Image 5*</p>
 
-<p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/customer_pie_chart.png" width="300" height="198" alt="map of Manhattan" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_by_gen_weekday.png" width="300" height="198" alt="Heat map of trips by gender on each weekday" /></p>
 
 <p align="center">*Image 6*</p>
 
 <p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/customer_pie_chart.png" width="300" height="198" alt="map of Manhattan" /></p>
-
-
 
 ## Summary
 
