@@ -14,8 +14,8 @@ The purpose of this project was to create a variety of visualizations that would
 Bike Sharing in New York City has been a BIG success, but can bike sharing business also be successful in Des Moines, Iowa? The map shows where riders start their bike trips on and around the island of Manhattan (Image 1). Upon first glance, it looks as though most bike trips begin in a high tourist area of Manhattan.
 
 *Image 1*
-<img src="https://github.com/jisellejones/bike_sharing/blob/main/Images/map.png" width="640" height="474" style="text-align:center">
-a successful bike sharing business modele  
+
+<center><img src="https://github.com/jisellejones/bike_sharing/blob/main/Images/map.png" width="640" height="474"></center>  
 
 [Bike Sharing Story](https://public.tableau.com/app/profile/jiselle8417/viz/Bike_Sharing_Story/InvestinginBikeSharing)
 
