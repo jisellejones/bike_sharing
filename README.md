@@ -15,7 +15,7 @@ Bike Sharing in New York City has been a BIG success, but can bike sharing busin
 
 *Image 1*
 
-<img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/map.png" width="640" height="474" > 
+<p style="text-align:center;"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/map.png" width="640" height="474" ></p>
 
 [Bike Sharing Story](https://public.tableau.com/app/profile/jiselle8417/viz/Bike_Sharing_Story/InvestinginBikeSharing)
 
