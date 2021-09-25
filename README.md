@@ -40,7 +40,7 @@ Diving further into the data, we can see that most bike riders identify as male 
 
 <p align="center">*Image 5*</p>
 
-<p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_by_gen_weekday.png" width="500" height="209" alt="Heat map of trips by gender on each weekday" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_by_gen_weekday.png" width="600" height="251" alt="Heat map of trips by gender on each weekday" /></p>
 
 <p align="center">*Image 6*</p>
 
