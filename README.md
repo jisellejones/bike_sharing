@@ -3,7 +3,7 @@
 ## Overview
 The purpose of this project was to create a variety of visualizations that would prove to investors that a bike share business in Des Moines, Iowa could be lucrative. The analysis was completed on bike share data from New York City. 
 
-You can view the interactive Tableau story here, [Bike Sharing Story](https://public.tableau.com/app/profile/jiselle8417/viz/Bike_Sharing_Story/InvestinginBikeSharing), or keep reading for a deeper analysis.
+You can view the interactive Tableau story here, [Bike Sharing Tableau Story](https://public.tableau.com/app/profile/jiselle8417/viz/Bike_Sharing_Story/InvestinginBikeSharing), or keep reading for a deeper analysis.
 
 ## Data Source
 - [Citi Bike System Data](https://ride.citibikenyc.com/system-data)
