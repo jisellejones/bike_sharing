@@ -32,19 +32,17 @@ Looking at the following heat maps (Images 3 & 4), Local bike riders may also be
 :-------------------------:|:-------------------------:
  <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_per_weekday_hour.png" width="500" height="352" alt="Heat map of weekday trips by hour"/> | <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_by_gender_Weekday_per%20_Hour.png" width="500" height="352" alt="Heat map of weekday trips by hour by gender" />
 
-
-
-
-
 Diving further into the data, we can see that most bike riders identify as male and these slef-identified male bike riders bike mostly during the weekday. This seems to also be true for self-idetified female bike riders (Image 5)
 
 <p align="center">*Image 5*</p>
 
 <p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_by_gen_weekday.png" width="600" height="251" alt="Heat map of trips by gender on each weekday" /></p>
 
-<p align="center">*Image 6*</p>
+Finally, we can see that most people ride between 5 and 30 minutes, regardless of self-identified gender. We can possibly use this data to determine pricing in Des Moines based on household income.
 
-<p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/customer_pie_chart.png" width="300" height="198" alt="map of Manhattan" /></p>
+<p align="center">*Images 6 & 7*</p>
+
+<p align="center"><img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/check_out_times_comparison.png" width="300" height="198" alt="Two line graphs, left graph showing checkout times for all riders, right graph showing checkout times based on self-identified gender" /></p>
 
 ## Summary
 
