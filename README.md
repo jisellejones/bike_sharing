@@ -30,7 +30,7 @@ Looking at the following heat maps (Images 3 & 4), Local bike riders may also be
 
 *Image 3*            |  *Image 4*
 :-------------------------:|:-------------------------:
- <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_per_weekday_hour.png" width="500" height="352" alt="Heat map of weekday trips by hour"/> | <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_by_gen_weekday.png" width="500" height="352" alt="Heat map of weekday trips by hour by gender" />
+ <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_per_weekday_hour.png" width="500" height="352" alt="Heat map of weekday trips by hour"/> | <img class="centerImage" src="https://github.com/jisellejones/bike_sharing/blob/main/Images/trips_by_gender_Weekday_per%20_Hour.png" width="500" height="352" alt="Heat map of weekday trips by hour by gender" />
 
 <p align="center">*Image 5*</p>
 
